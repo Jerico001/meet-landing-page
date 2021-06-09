@@ -80,7 +80,7 @@ html {
   color: white;
   margin-top: 3.2rem;
   font-family: "Red Hat Display", sans-serif;
-  transition: 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
 }
 
 .download-top span {
@@ -102,7 +102,7 @@ html {
   color: white;
   margin-left: 1.6rem;
   font-family: "Red Hat Display", sans-serif;
-  transition: 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
 }
 
 .what:hover {
@@ -247,7 +247,7 @@ html {
   color: #fafafa;
   font-weight: 800;
   font-family: "Red Hat Display", sans-serif;
-  transition: all 0.2s ease-in-out;
+  transition: background 0.2s ease-in-out;
 }
 
 .download-bot span {
