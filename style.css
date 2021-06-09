@@ -140,7 +140,10 @@ html {
 
 .images {
   display: flex;
+  align-items: center;
+  justify-content: center;
   margin-top: 6.4rem;
+  overflow: hidden;
 }
 
 .images img {
